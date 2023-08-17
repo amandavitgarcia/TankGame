@@ -1,0 +1,15 @@
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\bin\Debug\net6.0\ProjetoTankGame.exe
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\bin\Debug\net6.0\ProjetoTankGame.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\bin\Debug\net6.0\ProjetoTankGame.runtimeconfig.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\bin\Debug\net6.0\ProjetoTankGame.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\bin\Debug\net6.0\ref\ProjetoTankGame.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\bin\Debug\net6.0\ProjetoTankGame.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ref\ProjetoTankGame.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\ProjetoTankGame\ProjetoTankGame\obj\Debug\net6.0\ProjetoTankGame.genruntimeconfig.cache
