@@ -62,6 +62,7 @@ while (customTanksList.Count != 1)
     Console.WriteLine($"\n \n \n \n-----------------------------------");
     Console.WriteLine($"\nComeçando {roundCounter}ª rodada...");
     Console.WriteLine($"\nQuantidade de Jogadores: {customTanksList.Count}");
+    
 
     Console.WriteLine("\nSorteando quem vai atirar...");
 
